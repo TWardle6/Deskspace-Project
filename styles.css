@@ -1,0 +1,13 @@
+.deskspace-logo {
+	top: 30px;
+	left: 35px;
+	color: rgba(20, 37, 28, 1);
+	height: auto;
+	position: absolute;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	font-family: "Syne", sans-serif;
+	line-height: 20px;
+	text-decoration: none;
+}
